@@ -1,0 +1,17 @@
+{
+    "name": "sopib/composer",
+    "autoload": {
+        "psr-4": {
+            "Sopib\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andreas Kristiawan",
+            "email": "akristiawan@outlook.com"
+        }
+    ],
+    "require": {
+        "thingengineer/mysqli-database-class": "*"
+    }
+}
